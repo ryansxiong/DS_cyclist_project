@@ -1,4 +1,5 @@
 # DS Cyclist Project
+* Capstone Case Study Project from (Google Data Analytics)
 
 ## Codes and Resources Used
 * **Python Version**: 3.8
@@ -8,7 +9,10 @@
 * **Link to combining multiple CSV files**: https://www.youtube.com/watch?v=dcQs8k9WGbY
 
 ## Background
-* Capstone Case Study Project from (Google Data Analytics)
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
+are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
+returned to any other station in the system anytime.
+
 * **Objective**: How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Findings/Trends Overview
@@ -70,7 +74,9 @@ I analyzed the distributions of the data and the value counts of all the categor
 * Look towards getting rid of docked bikes and transition to classic/electric bikes only 
 * Implement a tool that guides you through the quickest/effective routes
 
-
+## Further Analysis
+* Dive more in depth on the location to find where the majority of rides take place and end.
+  * Provides more insight on which places are hotspots for this service as well as building more stations where it is needed.
 
 
 
