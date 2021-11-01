@@ -45,6 +45,7 @@ I analysed the distributions of the data and the value counts of all the categor
 * Seasonal Trend
 * Types of riders according to the member status
 * Differences between Members and Casuals
+
 | Members | Casuals |
 |---|---|
 | Residents of the area (work in the area or are students) | Tourists or people looking for an activity to do |
