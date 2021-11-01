@@ -45,13 +45,13 @@ I analysed the distributions of the data and the value counts of all the categor
 * Seasonal Trend
 * Types of riders according to the member status
 * Differences between Members and Casuals
-Members | Casuals
-------- | -------
-  * Residents of the area (work in the area or are students) |  * Tourists or people looking for an activity to do
-  * Familiar with city Routes | * Unfamiliar with city routes
-  * Usage all year is more conistant (commuting) | * Ride during favorable wheather/season (Summer/Fall)
-  * Average ride time is consistant (18.2 minutes) | * Average ride time is longer and inconsistant throughout the year (52.7 minutes)
-            | * Prefer to ride on Friday and Saturday
+| Members | Casuals |
+|---|---|
+| Residents of the area (work in the area or are students) | Tourists or people looking for an activity to do |
+| Familiar with city Routes | Unfamiliar with city routes |
+| Usage all year is more conistant (commuting) | Ride during favorable wheather/season (Summer/Fall) |
+| Average ride time is consistant (18.2 minutes) | Average ride time is longer and inconsistant throughout the year (52.7 minutes) |
+| Rides are conistant throughout the week with a slight decrease from Sunday to Monday | Prefer to ride on Friday and Saturday |
 
 From the data, it is apparent that the amount of bike rides depend on timing (Season, day of week, hour of day). From "Count of Rides Member Type" chart you can see that between the months of July and October are when bike rides peak. Some external factors that may be correlated with these findings would be the season and wheather conditions. Also from this chart, members are more inclined to ride bikes all year as compared to the majority who Ride during the *"peak months"*. 
 
