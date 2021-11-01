@@ -30,6 +30,6 @@ I analysed the distributions of the data and the value counts of all the categor
 ![Avg Time Riden](https://user-images.githubusercontent.com/91089401/139720904-354106d0-1359-4f79-b6ca-d0182f7dbba9.png)
 ![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
 ![Day of Week (Ride Count)](https://user-images.githubusercontent.com/91089401/139720972-40fdcb6c-e4be-43f7-a2e5-19a89a11159e.png)
-![Hour Started (Ride Count)](https://user-images.githubusercontent.com/91089401/139720990-8055cb23-337e-4e44-9524-9496be0e98fb.png)
+![Hour Started (ride count) (2)](https://user-images.githubusercontent.com/91089401/139724625-b44b57de-fb04-4264-95fc-0470844c1ef0.png)
 
 ## Summary
