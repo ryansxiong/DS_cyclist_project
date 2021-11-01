@@ -18,11 +18,11 @@
 After downloading the data,  I cleaned it for analysis. I made the following changes:
 
 * Parsed datetime from *started_at and ended_at* columns:
-*   *date_started, date_ended, time_started, time_ended, hour_started, hour_ended*  
+  * *date_started, date_ended, time_started, time_ended, hour_started, hour_ended*  
 * Columns created: 
-*   Time spent riding bikes
-*   Specified the day of the week for the ride
-*   Determined if the ride was on a weekend
+    * Time spent riding bikes
+    * Specified the day of the week for the ride
+    * Determined if the ride was on a weekend
 * Dropped duplicates and *NA* values from data
 
 ## EDA
