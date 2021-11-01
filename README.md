@@ -27,8 +27,8 @@ After downloading the data,  I cleaned it for analysis. I made the following cha
 
 ## EDA
 I analysed the distributions of the data and the value counts of all the categorical variables to find if there were any trends. Below are some charts that I created from *Tableau* to display my findings:
-![Avg Time Riden](https://user-images.githubusercontent.com/91089401/139720904-354106d0-1359-4f79-b6ca-d0182f7dbba9.png)
 ![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
+![Avg Time Riden](https://user-images.githubusercontent.com/91089401/139720904-354106d0-1359-4f79-b6ca-d0182f7dbba9.png)
 ![Day of Week (Ride Count)](https://user-images.githubusercontent.com/91089401/139720972-40fdcb6c-e4be-43f7-a2e5-19a89a11159e.png)
 ![Hour Started (ride count) (2)](https://user-images.githubusercontent.com/91089401/139724625-b44b57de-fb04-4264-95fc-0470844c1ef0.png)
 
