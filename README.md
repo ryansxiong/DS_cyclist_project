@@ -69,6 +69,8 @@ I analyzed the distributions of the data and the value counts of all the categor
 | Average ride time is consistent | Average ride time is longer and inconsistent throughout the year |
 | Rides are consistent throughout the week with a slight decrease from Sunday to Monday | Prefer to ride on Friday and Saturday |
 
+_The code can be found in the folder labeled **ds_cyclist_proj_datacleaning-checkpoint.ipynb**_
+
 ## Recommendations
 * Focus on increasing the number of classic bikes
 * Look towards getting rid of docked bikes and transition to classic/electric bikes only 
