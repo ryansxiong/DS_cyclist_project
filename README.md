@@ -39,6 +39,8 @@ After downloading the data,  I cleaned it for analysis. I made the following cha
 ## EDA
 I analyzed the distributions of the data and the value counts of all the categorical variables to find if there were any trends. Below you will find some key findings (with explanation/ thought process) when reviewing the data as well as some charts that I created from *Tableau* to display my findings:
 
+_The code can be found in the folder labeled **ds_cyclist_proj_datacleaning-checkpoint.ipynb**_
+
 **Seasonal Trend**
   * Between the months of July and October are when the most bike rides take place. Some external factors that are correlated with these findings would be the season and weather  conditions. Members are more consistent throughout the whole year with a slight decrease during the Winter. Although there is a decrease during the winter, there are more members riding during the off season as compared to casuals who mostly ride during the warmer seasons (summer/fall).
 ![Count of Rides by Member Type](https://user-images.githubusercontent.com/91089401/139720951-6db83f21-6afa-4247-b82b-81a2e1753e1d.png)
@@ -69,7 +71,6 @@ I analyzed the distributions of the data and the value counts of all the categor
 | Average ride time is consistent | Average ride time is longer and inconsistent throughout the year |
 | Rides are consistent throughout the week with a slight decrease from Sunday to Monday | Prefer to ride on Friday and Saturday |
 
-_The code can be found in the folder labeled **ds_cyclist_proj_datacleaning-checkpoint.ipynb**_
 
 ## Recommendations
 * Focus on increasing the number of classic bikes
