@@ -7,6 +7,7 @@
 * **Visual Tools**: Tableau
 * **License for data**: https://www.divvybikes.com/data-license-agreement
 * **Link to combining multiple CSV files**: https://www.youtube.com/watch?v=dcQs8k9WGbY
+_ * The code can be found in the folder labeled **How To Combine CSV into 1 Master File.ipynb**_
 
 ## Background
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
